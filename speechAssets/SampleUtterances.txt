@@ -1,0 +1,43 @@
+ConstellationsIntent tell me about {Constellation}
+ConstellationsIntent {Constellation}
+ConstellationsIntent inform me about {Constellation}
+ConstellationsIntent what do you know about {Constellation}
+ConstellationsIntent what can you tell me about {Constellation}
+ConstellationsIntent I want to learn about {Constellation}
+ConstellationsIntent give me information about {Constellation}
+ConstellationsIntent teach me about {Constellation}
+ConstellationsIntent what information do you have about {Constellation}
+ConstellationsIntent what is special about {Constellation}
+
+ConstellationsMythIntent tell me a myth about {Constellation}
+ConstellationsMythIntent tell me about myth about {Constellation}
+ConstellationsMythIntent tell me {Constellation} story
+ConstellationsMythIntent tell me a story {Constellation}
+ConstellationsMythIntent tell me {Constellation} myth
+ConstellationsMythIntent tell me about {Constellation} myth
+ConstellationsMythIntent {Constellation} myth
+ConstellationsMythIntent inform me about {Constellation} myth
+ConstellationsMythIntent tell me the myth about {Constellation}
+
+GetMoreInfoIntent yes
+GetMoreInfoIntent yup
+GetMoreInfoIntent sure
+GetMoreInfoIntent yes please
+GetMoreInfoIntent yeah
+GetMoreInfoIntent ya
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
+AMAZON.StopIntent na
+AMAZON.StopIntent exit
+AMAZON.StopIntent leave
+AMAZON.StopIntent close
+
+AMAZON.CancelIntent cancel
+
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me
+AMAZON.HelpIntent what can I ask you
+AMAZON.HelpIntent what can you tell me

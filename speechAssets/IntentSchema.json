@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "ConstellationsIntent",
+      "slots": [
+      {
+        "name" : "Constellation",
+        "type": "LIST_OF_CONSTELLATIONS"
+      }
+     ]
+    },
+    {
+      "intent": "ConstellationsMythIntent",
+      "slots": [
+      {
+        "name" : "Constellation",
+        "type": "LIST_OF_CONSTELLATIONS"
+      }
+     ]
+    },
+    {
+      "intent": "GetMoreInfoIntent",
+      "slots": [
+      {
+        "name" : "Constellation",
+        "type": "LIST_OF_CONSTELLATIONS"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
