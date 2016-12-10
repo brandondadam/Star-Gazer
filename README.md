@@ -1,8 +1,10 @@
 # Star Gazer, a Sample AWS Lambda function for Alexa
-A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK. This skill is based off of the Minecraft Helper sample skill from the [Node.js Alexa Skills Kit Samples](https://github.com/amzn/alexa-skills-kit-js) offered by Amazon. Check all the sample skills offered by Amazon to learn more about developing custom skills for Alexa.
+This is an Alexa project that I started in school. It started out as a sample skill that's goal was to inform amateur astronomers about interesting facts and the myths that surround the many constellations in the night sky. However, I have intentions of continuing to grow the capabilities of this skill, as I learn more about stars and Alexa development.
+
+This skill started as a simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrated how to write a skill for the Amazon Echo using the Alexa SDK. It is based off of the Minecraft Helper sample skill from the [Node.js Alexa Skills Kit Samples](https://github.com/amzn/alexa-skills-kit-js) offered by Amazon. Check all the sample skills offered by Amazon to learn more about developing custom skills for Alexa.
 
 ## Concepts
-This skill informs users about the different constellations. This sample shows how to create a Lambda function for handling Alexa Skill requests that:
+This skill informs users about the various constellations. This sample shows how to create a Lambda function for handling Alexa Skill requests that:
 
 - Custom slot type: demonstrates using custom slot types to handle a finite set of known values
 
