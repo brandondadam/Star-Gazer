@@ -10,14 +10,17 @@ ConstellationsIntent what information do you have about {Constellation}
 ConstellationsIntent what is special about {Constellation}
 
 ConstellationsMythIntent tell me a myth about {Constellation}
+ConstellationsMythIntent tell me the myth about {Constellation}
 ConstellationsMythIntent tell me about myth about {Constellation}
 ConstellationsMythIntent tell me {Constellation} story
-ConstellationsMythIntent tell me a story {Constellation}
+ConstellationsMythIntent tell me a story about {Constellation}
+ConstellationsMythIntent tell me the story about {Constellation}
 ConstellationsMythIntent tell me {Constellation} myth
 ConstellationsMythIntent tell me about {Constellation} myth
 ConstellationsMythIntent {Constellation} myth
 ConstellationsMythIntent inform me about {Constellation} myth
 ConstellationsMythIntent tell me the myth about {Constellation}
+ConstellationsMythIntent explain me the myth about {Constellation}
 
 GetMoreInfoIntent yes
 GetMoreInfoIntent yup
